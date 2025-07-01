@@ -41,8 +41,8 @@ Siga os passos abaixo para configurar o ambiente e executar o projeto localmente
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/gestao-frota.git](https://github.com/SEU-USUARIO/gestao-frota.git)
-    cd gestao-frota
+    git clone https://github.com/FredRelvas/Trabalho-Final-BD-LogisticaTransporte
+    
     ```
 
 2.  **Crie e ative um ambiente virtual:**
