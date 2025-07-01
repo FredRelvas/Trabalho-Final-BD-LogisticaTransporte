@@ -1,0 +1,101 @@
+id,veiculo_id,tipo,data_evento,descricao,prioridade,resolvido
+1,15,Excesso de Velocidade,2025-06-03 07:53:26,Suscipit dolorum cupiditate cumque velit sunt nesciunt unde libero hic sint voluptates.,Média,False
+2,13,Parada Não Programada,2025-06-13 07:53:26,Nesciunt vero nihil iure magnam minus tempore alias sunt odio.,Baixa,True
+3,1,Excesso de Velocidade,2025-06-17 07:53:26,Libero natus laborum nobis rerum natus voluptatibus.,Média,False
+4,2,Alerta de Combustível,2025-05-29 07:53:26,Recusandae consectetur neque est sint officiis illo similique unde distinctio animi.,Baixa,True
+5,14,Parada Não Programada,2025-06-24 07:53:26,Facere est consequuntur aut recusandae tenetur.,Média,False
+6,8,Troca de Óleo,2025-06-19 07:53:26,Aspernatur cupiditate voluptates incidunt blanditiis provident vero et maiores ad.,Alta,False
+7,12,Alerta de Combustível,2025-05-29 07:53:26,Culpa accusamus debitis molestias neque temporibus sit.,Média,False
+8,1,Parada Não Programada,2025-06-19 07:53:26,Doloribus maxime corporis sint necessitatibus dolor dolores ipsum explicabo dolor recusandae.,Baixa,False
+9,16,Manutenção Preventiva,2025-05-26 07:53:26,Eligendi distinctio sed officiis illum iure nostrum qui.,Baixa,True
+10,10,Manutenção Preventiva,2025-06-19 07:53:26,Vitae qui cupiditate temporibus tempore dicta quae vero fugit autem officia.,Média,True
+11,9,Troca de Óleo,2025-06-10 07:53:26,Unde commodi culpa possimus quam suscipit.,Alta,False
+12,6,Revisão Completa,2025-06-17 07:53:26,Laudantium est eum natus consequatur quaerat doloremque reiciendis eligendi libero porro exercitationem officia.,Baixa,False
+13,15,Parada Não Programada,2025-05-27 07:53:26,Ratione accusamus dolor debitis accusamus recusandae esse quasi explicabo.,Alta,True
+14,8,Troca de Óleo,2025-05-28 07:53:26,Ratione aperiam deleniti quibusdam deserunt exercitationem distinctio amet hic.,Média,True
+15,4,Troca de Óleo,2025-06-15 07:53:26,Accusamus ipsum ipsam qui dolorem optio ipsum.,Baixa,True
+16,19,Revisão Completa,2025-06-15 07:53:26,Dolor porro tenetur sequi eum neque illum porro expedita repudiandae doloremque.,Baixa,True
+17,14,Parada Não Programada,2025-06-22 07:53:26,Doloremque perspiciatis facilis rem atque minima debitis magnam.,Média,False
+18,9,Manutenção Preventiva,2025-06-07 07:53:26,Debitis fugiat suscipit itaque repellat illum quaerat distinctio molestias.,Alta,False
+19,13,Excesso de Velocidade,2025-05-29 07:53:26,Deserunt eius totam occaecati ut tempore vero error recusandae.,Alta,True
+20,20,Revisão Completa,2025-06-19 07:53:26,Asperiores inventore eius delectus hic quos quas ea recusandae iusto dicta tenetur a.,Baixa,True
+21,18,Excesso de Velocidade,2025-05-30 07:53:26,Similique aut voluptatibus sequi tenetur laudantium quidem ipsam exercitationem illum inventore harum quam.,Média,False
+22,9,Revisão Completa,2025-06-10 07:53:26,Animi iste impedit id ullam deleniti necessitatibus tempora pariatur.,Baixa,False
+23,13,Alerta de Combustível,2025-06-15 07:53:26,Ex a blanditiis sed harum eos.,Média,False
+24,1,Revisão Completa,2025-06-10 07:53:26,Suscipit impedit eveniet nesciunt sed laudantium veritatis deserunt.,Alta,False
+25,17,Manutenção Preventiva,2025-06-17 07:53:26,Quos laudantium aliquam dolor facilis eos sed molestias vitae labore.,Alta,True
+26,20,Parada Não Programada,2025-06-18 07:53:26,Quae atque nihil cum similique incidunt.,Alta,False
+27,19,Manutenção Preventiva,2025-06-21 07:53:26,Velit quaerat cupiditate distinctio asperiores qui quia inventore.,Alta,False
+28,5,Manutenção Preventiva,2025-06-11 07:53:26,Quod alias molestiae deserunt nemo laudantium quis sapiente occaecati quod laudantium cupiditate nostrum.,Média,True
+29,1,Manutenção Preventiva,2025-06-22 07:53:26,Soluta ipsa ipsa architecto nostrum eos accusamus maiores at quae neque soluta similique.,Média,True
+30,13,Manutenção Preventiva,2025-06-10 07:53:26,Repellat delectus quo nisi tempore at praesentium nobis aut ratione necessitatibus aut est.,Baixa,False
+31,13,Revisão Completa,2025-05-29 07:53:26,Esse quis asperiores ipsa quidem at eligendi dolorum iste exercitationem.,Alta,False
+32,11,Excesso de Velocidade,2025-06-19 07:53:26,Deserunt eum maiores molestias necessitatibus quaerat aperiam repellat alias.,Alta,False
+33,8,Alerta de Combustível,2025-05-26 07:53:26,Fugit minima minus eos expedita nobis numquam.,Média,False
+34,6,Parada Não Programada,2025-06-05 07:53:26,Beatae rem doloremque tempora animi necessitatibus natus tenetur maxime quis quidem tenetur aliquid.,Média,True
+35,9,Excesso de Velocidade,2025-06-08 07:53:26,Vero autem eius debitis laudantium non consequatur nobis.,Alta,True
+36,7,Alerta de Combustível,2025-06-08 07:53:26,Repellat deserunt numquam tempora reprehenderit dolorem sequi doloremque.,Média,False
+37,13,Parada Não Programada,2025-06-06 07:53:26,Inventore possimus repudiandae ipsa pariatur ea doloribus officia incidunt officia suscipit optio esse facilis.,Alta,False
+38,16,Alerta de Combustível,2025-06-23 07:53:26,Veritatis quo in doloribus esse quod quo optio suscipit optio.,Média,True
+39,7,Manutenção Preventiva,2025-06-17 07:53:26,Veniam molestiae distinctio exercitationem in nostrum est eligendi.,Alta,False
+40,6,Troca de Óleo,2025-05-29 07:53:26,Animi dicta explicabo dignissimos consectetur consectetur neque praesentium rem quasi.,Média,False
+41,9,Manutenção Preventiva,2025-06-13 07:53:26,Dolorum nobis quisquam deleniti eum repellat suscipit aspernatur voluptas beatae.,Baixa,False
+42,10,Troca de Óleo,2025-06-02 07:53:26,Natus modi fugit ullam natus ullam ratione optio corporis fugiat placeat.,Média,False
+43,19,Manutenção Preventiva,2025-06-22 07:53:26,Eligendi nisi facere unde perferendis quae minima quod impedit explicabo molestiae.,Média,True
+44,8,Troca de Óleo,2025-06-08 07:53:26,A itaque iusto est accusantium ipsa doloribus enim mollitia magnam illum a.,Alta,False
+45,9,Manutenção Preventiva,2025-06-22 07:53:26,Eligendi voluptatibus ducimus sunt quis rerum deserunt laborum.,Alta,False
+46,6,Excesso de Velocidade,2025-06-14 07:53:26,Soluta porro perferendis similique culpa ratione repellat dignissimos distinctio at.,Alta,True
+47,6,Manutenção Preventiva,2025-06-18 07:53:26,Tenetur tenetur hic et aut ipsam odio cupiditate.,Alta,True
+48,17,Alerta de Combustível,2025-06-25 07:53:26,Harum cumque velit omnis laboriosam ipsa itaque sunt tempora consectetur aliquid.,Alta,False
+49,18,Excesso de Velocidade,2025-06-23 07:53:26,Quisquam temporibus magni perferendis provident sint nam delectus.,Baixa,False
+50,7,Troca de Óleo,2025-06-20 07:53:26,Exercitationem exercitationem accusantium quo totam aliquam eligendi quia aut corrupti incidunt aliquam.,Baixa,True
+51,10,Revisão Completa,2025-05-31 07:53:26,Earum occaecati quaerat dolorum aperiam maxime nostrum quibusdam.,Média,True
+52,20,Troca de Óleo,2025-05-27 07:53:26,Iusto ex facere rem deleniti deleniti molestiae.,Baixa,False
+53,2,Excesso de Velocidade,2025-06-07 07:53:26,Reiciendis sed repudiandae dolore iste similique architecto libero fuga itaque earum cumque.,Média,True
+54,11,Parada Não Programada,2025-06-25 07:53:26,Beatae porro aut labore iste culpa.,Baixa,True
+55,13,Parada Não Programada,2025-06-08 07:53:26,Illum autem exercitationem maxime quis asperiores libero eos aperiam.,Alta,True
+56,12,Alerta de Combustível,2025-06-18 07:53:26,Sequi vitae labore ipsum et expedita possimus recusandae autem adipisci aliquid error unde.,Média,False
+57,14,Alerta de Combustível,2025-06-02 07:53:26,Adipisci illo beatae laudantium autem ullam sequi omnis quia.,Média,True
+58,20,Excesso de Velocidade,2025-05-28 07:53:26,Facilis assumenda harum cupiditate sint porro excepturi quas pariatur voluptatibus atque.,Média,False
+59,16,Alerta de Combustível,2025-06-19 07:53:26,Laborum mollitia veniam nostrum dolore voluptatum facere eligendi et atque quidem.,Média,False
+60,9,Alerta de Combustível,2025-06-14 07:53:26,Cupiditate necessitatibus totam at consequatur quaerat saepe in temporibus id aut a.,Baixa,True
+61,10,Troca de Óleo,2025-06-25 07:53:26,Sint impedit facilis eum dolorem sit.,Baixa,False
+62,4,Troca de Óleo,2025-05-31 07:53:26,Voluptatum possimus eos magni earum facere delectus dolores vitae.,Alta,True
+63,20,Revisão Completa,2025-06-19 07:53:26,Nesciunt commodi fugit numquam aliquid officiis eaque esse ut.,Alta,False
+64,10,Excesso de Velocidade,2025-06-02 07:53:26,Mollitia molestiae voluptatibus veniam exercitationem officia tenetur saepe aliquid atque laudantium.,Baixa,True
+65,5,Manutenção Preventiva,2025-06-13 07:53:26,Reiciendis dolorem ipsum asperiores a maiores similique quam itaque atque repellendus facere fugiat.,Alta,False
+66,17,Revisão Completa,2025-06-04 07:53:26,Quae esse odit rem officia quibusdam dolore voluptate id impedit.,Alta,False
+67,3,Revisão Completa,2025-06-15 07:53:26,Rem reiciendis mollitia eum earum consectetur tempore mollitia tempore.,Alta,False
+68,14,Parada Não Programada,2025-05-30 07:53:26,Explicabo minus tenetur exercitationem et doloremque fugit et dignissimos molestiae deserunt.,Baixa,False
+69,19,Excesso de Velocidade,2025-06-20 07:53:26,Cum impedit accusantium quam repudiandae nesciunt odit ipsa veniam.,Baixa,True
+70,15,Alerta de Combustível,2025-06-03 07:53:26,Tempore nesciunt ea voluptates libero accusamus assumenda tempore.,Média,False
+71,20,Parada Não Programada,2025-06-13 07:53:26,Libero voluptates autem deserunt suscipit cupiditate vel voluptas maxime itaque occaecati sit.,Alta,True
+72,2,Excesso de Velocidade,2025-06-01 07:53:26,Harum minima nostrum nulla nam voluptate totam ratione voluptas ipsam quae ratione quam.,Média,True
+73,13,Alerta de Combustível,2025-06-16 07:53:26,Quis ipsa quasi quae perferendis aut porro aut reiciendis in iure quibusdam.,Média,True
+74,6,Manutenção Preventiva,2025-05-26 07:53:26,Quas corporis amet perferendis cupiditate nihil hic necessitatibus necessitatibus tenetur.,Alta,True
+75,3,Troca de Óleo,2025-06-02 07:53:26,Est ipsa perferendis est magni reiciendis nulla.,Baixa,True
+76,12,Manutenção Preventiva,2025-06-11 07:53:26,Earum dolores fugiat rerum repudiandae perspiciatis.,Média,True
+77,1,Revisão Completa,2025-05-27 07:53:26,Occaecati dignissimos reiciendis doloribus perferendis voluptatem.,Média,True
+78,4,Alerta de Combustível,2025-06-19 07:53:26,Impedit provident reiciendis itaque dolor libero velit veritatis quas esse itaque minima occaecati sequi.,Média,False
+79,17,Parada Não Programada,2025-06-11 07:53:26,Eveniet rerum in pariatur animi voluptate cum nisi sapiente ullam.,Média,False
+80,19,Manutenção Preventiva,2025-06-15 07:53:26,Labore laborum magnam enim recusandae doloremque quaerat.,Alta,True
+81,4,Excesso de Velocidade,2025-05-28 07:53:26,Illum aliquam ad facilis amet error expedita rerum voluptates.,Baixa,True
+82,9,Manutenção Preventiva,2025-05-31 07:53:26,Quas vel perspiciatis deleniti laudantium maiores hic expedita tempora sit provident beatae iure.,Média,True
+83,12,Troca de Óleo,2025-06-19 07:53:26,Fugit culpa dolorem dolor atque culpa aperiam vitae minima.,Alta,False
+84,4,Parada Não Programada,2025-06-21 07:53:26,Nesciunt itaque est architecto quia optio.,Alta,True
+85,8,Troca de Óleo,2025-06-20 07:53:26,Itaque reiciendis occaecati officia nulla quisquam asperiores corrupti.,Alta,False
+86,1,Revisão Completa,2025-06-18 07:53:26,Sint ad velit vero in odio animi et a voluptatum quas nulla neque.,Média,False
+87,3,Troca de Óleo,2025-06-25 07:53:26,Ullam repudiandae rerum molestias perferendis perspiciatis quod ipsum officia asperiores nisi doloribus quaerat.,Baixa,True
+88,9,Manutenção Preventiva,2025-05-27 07:53:26,Occaecati iste error impedit culpa corporis deserunt itaque odit necessitatibus ipsam.,Baixa,True
+89,12,Parada Não Programada,2025-06-10 07:53:26,Iure blanditiis est laudantium possimus iste nemo sint officiis alias id sunt numquam.,Alta,True
+90,7,Troca de Óleo,2025-06-01 07:53:26,Eveniet iste incidunt saepe vel quos nam laborum quisquam at suscipit eveniet.,Alta,False
+91,17,Revisão Completa,2025-06-06 07:53:26,Vero modi distinctio mollitia eum neque.,Alta,True
+92,4,Manutenção Preventiva,2025-06-06 07:53:26,Quasi praesentium a ea ad incidunt corrupti blanditiis eum occaecati eum similique.,Baixa,False
+93,10,Manutenção Preventiva,2025-06-08 07:53:26,Repellendus culpa molestiae at magnam ipsum minus cumque reiciendis repudiandae repellat tenetur.,Alta,True
+94,2,Revisão Completa,2025-06-20 07:53:26,Dolor consectetur quasi harum beatae eaque inventore nemo ab.,Baixa,True
+95,13,Manutenção Preventiva,2025-06-21 07:53:26,Dolor saepe sed enim assumenda magni nam error repellendus.,Baixa,False
+96,20,Revisão Completa,2025-06-25 07:53:26,Eligendi soluta nemo placeat amet blanditiis explicabo praesentium incidunt incidunt culpa nulla.,Média,False
+97,14,Excesso de Velocidade,2025-06-17 07:53:26,Alias suscipit numquam veniam alias molestiae molestiae.,Alta,False
+98,5,Manutenção Preventiva,2025-06-01 07:53:26,Provident placeat debitis voluptas inventore blanditiis officia dolor omnis.,Média,True
+99,9,Manutenção Preventiva,2025-06-20 07:53:26,Magni animi dolores molestias numquam totam aspernatur dolorum esse beatae cupiditate ea quidem.,Média,True
+100,19,Troca de Óleo,2025-05-30 07:53:26,Dolore sapiente incidunt dolore alias voluptatum molestias voluptate.,Baixa,True

@@ -1,0 +1,21 @@
+id,placa,modelo,tipo,ano,km_atual,capacidade_carga,consumo_medio,status
+1,TCK-2L11,Iveco Daily,Van,2018,106686,2879,11.8,Manutenção
+2,VBL-7Y21,Iveco Sprinter,Van,2024,68078,3365,11.9,Disponível
+3,MQV-5R12,Ford Sprinter,Caminhão,2024,72558,3390,9.5,Em viagem
+4,XNC-0P67,Iveco Daily,Utilitário,2020,93258,2389,9.4,Manutenção
+5,NSH-9V96,Mercedes Delivery,Utilitário,2020,55802,4255,14.5,Em viagem
+6,DQW-7I09,Ford Daily,Van,2020,41703,1506,9.5,Manutenção
+7,HFS-8S89,Mercedes Delivery,Caminhão,2024,75257,1548,8.2,Em viagem
+8,GKU-2U38,Mercedes Cargo,Utilitário,2023,121653,3546,9.6,Disponível
+9,KZX-7D49,Iveco Cargo,Utilitário,2018,104628,1691,10.9,Em viagem
+10,HZY-8W27,Ford Cargo,Utilitário,2020,97574,2685,14.3,Em viagem
+11,XBF-6B94,Ford Daily,Utilitário,2020,41783,3613,11.6,Disponível
+12,CYT-9S84,Iveco Daily,Van,2021,106320,2453,9.2,Manutenção
+13,HBV-4S45,Mercedes Cargo,Caminhão,2024,119755,1051,8.3,Em viagem
+14,OOA-0P31,Mercedes Cargo,Utilitário,2024,20027,3301,14.9,Manutenção
+15,VZE-1U00,Iveco Daily,Utilitário,2020,98448,1507,11.3,Disponível
+16,TNB-3K22,Volkswagen Sprinter,Utilitário,2022,75183,2286,15.0,Manutenção
+17,CDR-8Z89,Volkswagen Delivery,Van,2021,92098,4200,9.2,Em viagem
+18,LFQ-9J74,Iveco Cargo,Utilitário,2022,36941,2166,10.2,Disponível
+19,PSS-5L52,Mercedes Sprinter,Utilitário,2023,31063,2370,14.0,Em viagem
+20,HLD-2S33,Ford Cargo,Caminhão,2019,76344,2688,10.4,Manutenção
